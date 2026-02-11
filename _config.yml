@@ -1,0 +1,10 @@
+title: "Safety-IR-Profile"
+remote_theme: academicpages/academicpages
+repository: razvangabdumitru-spec/Safety-IR-Profile
+baseurl: ""
+url: "https://razvangabdumitru-spec.github.io"
+exclude:
+  - "README.md"
+paginate: 0
+
+# Minimal configuration to build a single landing page using the academicpages remote theme
