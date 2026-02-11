@@ -1,2 +1,5 @@
-# Safety-IR-Profile
-Single-page incident-response style profile for AI Safety &amp; Reliability role. Based on academicpages template.
+Safety-IR-Profile
+
+Single-page incident-response style profile for AI Safety & Reliability role.
+
+Site published at GitHub Pages branch gh-pages.
